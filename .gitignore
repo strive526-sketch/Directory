@@ -1,0 +1,9 @@
+# Raw data files (too large for git)
+data/
+output/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
